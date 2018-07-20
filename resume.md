@@ -71,6 +71,10 @@ portfolio targeting, MBS analytics, real-time data acquisition, and
 integrating 3rd party products. Designed and configured
 development environment for Unix (SunOS, AIX) network. 
 
+## Open Source
+
+[Github](https://github.com/keithalewis/)
+
 ## Academia
 
 ### _Columbia University_, Adjunct Professor
